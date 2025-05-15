@@ -6,12 +6,12 @@ Orientador: [Dr Nelson Alves Ferreira Neto - Pós-Processamento](nelson.neto@fie
 
 ### Desenvolvimento das Atividades
 
-|CHECK   |ETAPA      |DESCRIÇÃO                                                             |
-| :----: |  :----:   |:----                                                                 |
-|   [ ]  |   PBL-1   | Desenvolver solução em RTL com FSM                                   |
-|   [ ]  |   PBL-2   | Desenvolver solução em linguagem de máquina RISC-V (Assembly)        |
-|   [ ]  |   PBL-3   | Desenvolver / Verificar UVM processador RISC-V ISA limitado          |
-|   [ ]  |   PBL-4   | Síntese STA-RTL e Prototipar em FPGA                                 |
+|CHECK                        |ETAPA      |DESCRIÇÃO                                                             |
+| :----:                      |  :----:   |:----                                                                 |
+|   <ul><li>- [ ] </li></ul>  |   PBL-1   | Desenvolver solução em RTL com FSM                                   |
+|   <ul><li>- [ ] </li></ul>  |   PBL-2   | Desenvolver solução em linguagem de máquina RISC-V (Assembly)        |
+|   <ul><li>- [ ] </li></ul>  |   PBL-3   | Desenvolver / Verificar UVM processador RISC-V ISA limitado          |
+|   <ul><li>- [ ] </li></ul>  |   PBL-4   | Síntese STA-RTL e Prototipar em FPGA                                 |
 
 > [Overleaf documentation - Genius (Simon Game)](https://www.overleaf.com/read/zctwtykxgspy#e757e6)
 
@@ -24,9 +24,9 @@ Ministrado: Prof. [Dr Wagner Luiz Alves de Oliveira - UFBA
 
 ### Descrição
 
-|-----------|TÓPICOS                                                               |
-|  :----:   |:----                                                                 |
-|           |                                                                      | 
+|-------                   |TÓPICOS                                                               |
+|  :----:                  |:----                                                                 |
+| <ul><li>- [ ] </li></ul> |                                                                      | 
 
 ## CD102 - Introdução a Projeto RTL com SystemVerilog
 
@@ -34,9 +34,9 @@ Ministrado: []()
 
 ### Descrição
 
-|-----------|TÓPICOS                                                               |
-|  :----:   |:----                                                                 |
-|           |                                                                      | 
+|-------                   |TÓPICOS                                                               |
+|  :----:                  |:----                                                                 |
+| <ul><li>- [ ] </li></ul> |                                                                      | 
 
 ## CD103 - Síntese Lógica e STA
 
@@ -44,9 +44,9 @@ Ministrado: []()
 
 ### Descrição
 
-|-----------|TÓPICOS                                                               |
-|  :----:   |:----                                                                 |
-|           |                                                                      | 
+|-------                   |TÓPICOS                                                               |
+|  :----:                  |:----                                                                 |
+| <ul><li>- [ ] </li></ul> |                                                                      | 
 
 ## SD132 - Circuitos Digitais
 
@@ -54,9 +54,9 @@ Ministrado: []()
 
 ### Descrição
 
-|-----------|TÓPICOS                                                               |
-|  :----:   |:----                                                                 |
-|           |                                                                      | 
+|-------                   |TÓPICOS                                                               |
+|  :----:                  |:----                                                                 |
+| <ul><li>- [ ] </li></ul> |                                                                      | 
 
 ## SD212 - Arquiteturas de sistemas digitais
 
@@ -64,9 +64,9 @@ Ministrado: []()
 
 ### Descrição
 
-|-----------|TÓPICOS                                                               |
-|  :----:   |:----                                                                 |
-|           |                                                                      | 
+|-------                   |TÓPICOS                                                               |
+|  :----:                  |:----                                                                 |
+| <ul><li>- [ ] </li></ul> |                                                                      | 
 
 ## SD142 - Verificação de sistemas digitais
 
@@ -74,6 +74,6 @@ Ministrado: []()
 
 ### Descrição
 
-|-----------|TÓPICOS                                                               |
-|  :----:   |:----                                                                 |
-|           |                                                                      | 
+|-------                   |TÓPICOS                                                               |
+|  :----:                  |:----                                                                 |
+| <ul><li>- [ ] </li></ul> |                                                                      | 
