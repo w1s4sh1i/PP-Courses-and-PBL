@@ -1,7 +1,9 @@
 # QuIIN / Pós-Processamento Cursos
 
 ## Problem-Basead Learning
+
 Curso: QuIIN / CIMATEC - Aprendizado Baseado em Problemas
+
 Orientador: [Dr Nelson Alves Ferreira Neto - Pós-Processamento](nelson.neto@fieb.org.br)
 
 ### Desenvolvimento das Atividades
@@ -19,8 +21,7 @@ Orientador: [Dr Nelson Alves Ferreira Neto - Pós-Processamento](nelson.neto@fie
 
 ## CD101 - Introdução à Microeletrônica
 
-Ministrado: Prof. [Dr Wagner Luiz Alves de Oliveira - UFBA
-](wagner.oliveira@fbter.org.br)
+Ministrado: Prof. [Dr Wagner Luiz Alves de Oliveira - UFBA](wagner.oliveira@fbter.org.br)
 
 ### Descrição
 
